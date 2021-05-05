@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/tkh-2021/static/css/main.5e9ecd69.chunk.css",
-    "main.js": "/tkh-2021/static/js/main.703aa7d6.chunk.js",
-    "main.js.map": "/tkh-2021/static/js/main.703aa7d6.chunk.js.map",
-    "runtime-main.js": "/tkh-2021/static/js/runtime-main.ea49d972.js",
-    "runtime-main.js.map": "/tkh-2021/static/js/runtime-main.ea49d972.js.map",
-    "static/js/2.1acf64d5.chunk.js": "/tkh-2021/static/js/2.1acf64d5.chunk.js",
-    "static/js/2.1acf64d5.chunk.js.map": "/tkh-2021/static/js/2.1acf64d5.chunk.js.map",
-    "static/js/3.72d867a2.chunk.js": "/tkh-2021/static/js/3.72d867a2.chunk.js",
-    "static/js/3.72d867a2.chunk.js.map": "/tkh-2021/static/js/3.72d867a2.chunk.js.map",
-    "index.html": "/tkh-2021/index.html",
-    "service-worker.js": "/tkh-2021/service-worker.js",
-    "service-worker.js.map": "/tkh-2021/service-worker.js.map",
-    "static/css/main.5e9ecd69.chunk.css.map": "/tkh-2021/static/css/main.5e9ecd69.chunk.css.map",
-    "static/js/2.1acf64d5.chunk.js.LICENSE.txt": "/tkh-2021/static/js/2.1acf64d5.chunk.js.LICENSE.txt"
+    "main.css": "/finanseer/static/css/main.e39a06b7.chunk.css",
+    "main.js": "/finanseer/static/js/main.14a06868.chunk.js",
+    "main.js.map": "/finanseer/static/js/main.14a06868.chunk.js.map",
+    "runtime-main.js": "/finanseer/static/js/runtime-main.ad95b8f9.js",
+    "runtime-main.js.map": "/finanseer/static/js/runtime-main.ad95b8f9.js.map",
+    "static/js/2.83695ddd.chunk.js": "/finanseer/static/js/2.83695ddd.chunk.js",
+    "static/js/2.83695ddd.chunk.js.map": "/finanseer/static/js/2.83695ddd.chunk.js.map",
+    "static/js/3.b6f3bc3b.chunk.js": "/finanseer/static/js/3.b6f3bc3b.chunk.js",
+    "static/js/3.b6f3bc3b.chunk.js.map": "/finanseer/static/js/3.b6f3bc3b.chunk.js.map",
+    "index.html": "/finanseer/index.html",
+    "service-worker.js": "/finanseer/service-worker.js",
+    "service-worker.js.map": "/finanseer/service-worker.js.map",
+    "static/css/main.e39a06b7.chunk.css.map": "/finanseer/static/css/main.e39a06b7.chunk.css.map",
+    "static/js/2.83695ddd.chunk.js.LICENSE.txt": "/finanseer/static/js/2.83695ddd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea49d972.js",
-    "static/js/2.1acf64d5.chunk.js",
-    "static/css/main.5e9ecd69.chunk.css",
-    "static/js/main.703aa7d6.chunk.js"
+    "static/js/runtime-main.ad95b8f9.js",
+    "static/js/2.83695ddd.chunk.js",
+    "static/css/main.e39a06b7.chunk.css",
+    "static/js/main.14a06868.chunk.js"
   ]
 }
