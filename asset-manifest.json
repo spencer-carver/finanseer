@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/finanseer/static/css/main.e39a06b7.chunk.css",
-    "main.js": "/finanseer/static/js/main.12ffff81.chunk.js",
-    "main.js.map": "/finanseer/static/js/main.12ffff81.chunk.js.map",
+    "main.js": "/finanseer/static/js/main.e6fb5ab5.chunk.js",
+    "main.js.map": "/finanseer/static/js/main.e6fb5ab5.chunk.js.map",
     "runtime-main.js": "/finanseer/static/js/runtime-main.0ed11559.js",
     "runtime-main.js.map": "/finanseer/static/js/runtime-main.0ed11559.js.map",
-    "static/js/2.99fc8399.chunk.js": "/finanseer/static/js/2.99fc8399.chunk.js",
-    "static/js/2.99fc8399.chunk.js.map": "/finanseer/static/js/2.99fc8399.chunk.js.map",
+    "static/js/2.647a7221.chunk.js": "/finanseer/static/js/2.647a7221.chunk.js",
+    "static/js/2.647a7221.chunk.js.map": "/finanseer/static/js/2.647a7221.chunk.js.map",
     "static/js/3.ef206d6a.chunk.js": "/finanseer/static/js/3.ef206d6a.chunk.js",
     "static/js/3.ef206d6a.chunk.js.map": "/finanseer/static/js/3.ef206d6a.chunk.js.map",
     "index.html": "/finanseer/index.html",
     "service-worker.js": "/finanseer/service-worker.js",
     "service-worker.js.map": "/finanseer/service-worker.js.map",
     "static/css/main.e39a06b7.chunk.css.map": "/finanseer/static/css/main.e39a06b7.chunk.css.map",
-    "static/js/2.99fc8399.chunk.js.LICENSE.txt": "/finanseer/static/js/2.99fc8399.chunk.js.LICENSE.txt"
+    "static/js/2.647a7221.chunk.js.LICENSE.txt": "/finanseer/static/js/2.647a7221.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ed11559.js",
-    "static/js/2.99fc8399.chunk.js",
+    "static/js/2.647a7221.chunk.js",
     "static/css/main.e39a06b7.chunk.css",
-    "static/js/main.12ffff81.chunk.js"
+    "static/js/main.e6fb5ab5.chunk.js"
   ]
 }
